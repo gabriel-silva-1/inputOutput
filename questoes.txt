@@ -1,0 +1,19 @@
+Condicionais
+
+Dado a idade de uma pessoa, imprima se ela é maior ou menor de idade
+
+Estruturas de Repetição
+
+Dado variavel senha, com valor "senha123", requira do usuario que digite a senha correta para sair do loop, caso a senha esteja errada continue no loop e peça a senha de novo
+
+Arrays
+Pergunte ao usuario seus cinco filmes favoritos, guarde a informação num array "topCinco" e imprima os três primeiros lugares.
+
+Funções
+A altura de uma pessoa se estima pela altura do pai somada a altura da mãe divida por dois, se a pessoa for homem adicione 13cm ao resultado, caso for mulher subtrai 13cm do resultado, crie uma função que realize essa estimativa.
+
+Manipulação de Strings e Inteiros
+Dado um numero de telefone pelo usuario, extraia o DDD, e imprima-o.
+
+
+
